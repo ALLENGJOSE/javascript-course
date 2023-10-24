@@ -24,6 +24,7 @@
 // Inaccuracies with Floats:
 0.1 + 0.2
 20.95 + 7.99
+//Calculate in cents and then convert it into dollars so as to prevent float error.
 (2095 + 799) / 100
 
 // How to round numbers:
