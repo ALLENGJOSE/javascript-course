@@ -21,6 +21,7 @@ alert('Items (' + (1 + 1) + '): $' + (2095 + 799) / 100);
 'I\'m learning JavaScript'
 alert('some\ntext');
 
+// ` this is known as template strings
 `hello`='hello'
 //Here ${} is known as Interpolation which allows us to enter value directly in the string
 `Items (${1 + 1}): $${(2095 + 799) / 100}`= 'Items (2): $28.94' 
