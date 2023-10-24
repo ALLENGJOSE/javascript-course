@@ -11,6 +11,8 @@
 10.90 * 2 + 20.95 + 4.99
 
 // Order of operations:
+// * and / have same priority 
+//+ and - have same priority
 1 + 1 * 3
 (1 + 1) * 3
 
