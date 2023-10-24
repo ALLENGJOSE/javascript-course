@@ -14,6 +14,7 @@
 // * and / have same priority 
 //+ and - have same priority
 1 + 1 * 3
+//brackets have the highest priority
 (1 + 1) * 3
 
 20.95 + 7.99 * 2
